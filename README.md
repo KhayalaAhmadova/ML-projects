@@ -8,7 +8,7 @@ https://github.com/harshitkgupta/Fake-Profile-Detection-using-ML/tree/master/dat
 
 ## Data 2
 
-https://github.com/fcakyon/instafake-dataset/tree/master/data/fake-v1.0
+https://www.kaggle.com/datasets/free4ever1/instagram-fake-spammer-genuine-accounts
 
 ## Data 3
 
